@@ -1,0 +1,11 @@
+p{color: rgb(189, 226, 243);
+background-color: antiquewhite;}
+
+body{background-color: rgb(180, 205, 255);}
+
+h1{color: rgb(249, 191, 119); text-align: center;}
+h2{text-align: left;}
+h3{text-align: right;}
+h4{text-align: justify;
+font-size: 15;
+font-family:Verdana, Geneva, Tahoma, sans-serif;}
